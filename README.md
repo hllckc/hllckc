@@ -1,6 +1,7 @@
 <!-- PROFİL BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Merhaba%20Ben%20Halil%20%C3%87ak%C4%B1c%C4%B1&fontSize=40&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
+  
 </p>
 
 ## 🧠 Hakkımda
@@ -92,3 +93,15 @@
 </p>
 
 
+
+##gereksizlr
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hllckc&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hllckc&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Merhaba+Ben+Halil+Çakıcı;Gömülü+Sistem+Mühendisiyim;Rust+ve+C+seviyesinde+kodlama+🚀" />
+</p>
