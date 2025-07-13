@@ -76,8 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hllckc&show_icons=true&locale=en" alt="GitHub Stats" width="350" style="margin-right: 20px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hllckc&" alt="GitHub Streak" width="350" />
 </p>
-</p>
-![snake gif](https://raw.githubusercontent.com/hllckc/hllckc/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://raw.githubusercontent.com/hllckc/hllckc/output/github-contribution-grid-snake.gif)
 
 
