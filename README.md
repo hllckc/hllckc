@@ -77,7 +77,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hllckc&" alt="GitHub Streak" width="350" />
 </p>
 
-![snake gif](https://hllckc.github.io/hllckc/github-contribution-grid-snake.gif)
+
+<p align="center">
+  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+<p align="center">
+  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+<p align="center">
+  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.gif" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 
 
