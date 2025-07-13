@@ -2,24 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # her gün çalışır
   workflow_dispatch:
 
 jobs:
   build:
+    name: Generate Snake Game
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: hllckc
-          outputs: dist/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake.gif
-          color_snake: "#39ff14"
-          color_dots: "#111111,#222222,#333333"
-          color_bg: "#000000"
-          pixel_size: 12
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+          color_snake: "#00ff00"             # yeşil yılan
+          color_dots: "#444444,#333333,#222222,#111111,#000000" # arka plan tonları
+          color_bg: "#000000"                # siyah arka plan
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
