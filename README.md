@@ -94,14 +94,4 @@
 
 
 
-##gereksizlr
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hllckc&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hllckc&theme=dracula" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Merhaba+Ben+Halil+Çakıcı;Gömülü+Sistem+Mühendisiyim;Rust+ve+C+seviyesinde+kodlama+🚀" />
-</p>
