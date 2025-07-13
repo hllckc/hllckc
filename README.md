@@ -70,9 +70,9 @@
 ## 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="mailto:halil@example.com"><img src="https://img.shields.io/badge/e--posta-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/halil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@halil"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:halilcakici001@gmail.com"><img src="https://img.shields.io/badge/e--posta-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/halil](https://www.linkedin.com/in/halil-%C3%A7akici-158610275/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://youtube.com/@halil](https://www.youtube.com/@Rusthane)"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
@@ -87,6 +87,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
