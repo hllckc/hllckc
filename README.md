@@ -70,7 +70,7 @@
   <a href="https://www.youtube.com/@Rusthane" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://www.instagram.com/halil__cakici__h" target="_blank">
+  <a href="https://www.instagram.com/halil__ckc__h/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
