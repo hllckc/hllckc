@@ -57,22 +57,23 @@
 </p>
 
 
----
 
-## 🚀 Öne Çıkan Projeler
+## 📬 Bana Ulaşın
 
-- [🧠 Bare-metal Rust ile STM32F407 Geliştirme](https://github.com/hllckc/stm32f407-baremetal-rust)
-- [⚙ ATmega328P Register Tabanlı Programlama](https://github.com/hllckc/atmega328p-registers)
-- [🔐 Rust Anahtar Kelimelerle Eğitim Serisi](https://github.com/hllckc/rust-keyword-examples)
-
----
-
-## 📫 Bana Ulaşın
-
-<p align="left">
-  <a href="mailto:halilcakici001@gmail.com"><img src="https://img.shields.io/badge/e--posta-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/halil](https://www.linkedin.com/in/halil-%C3%A7akici-158610275/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://youtube.com/@halil](https://www.youtube.com/@Rusthane)"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:halilcakici001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/hllckc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@Rusthane" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/halil__cakici__h" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 </p>
 
 ---
