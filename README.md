@@ -83,17 +83,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-<p align="center">
-  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.gif" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 
 
