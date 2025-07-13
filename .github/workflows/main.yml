@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # her gün gece 03:00'te (UTC 00:00) çalışır
-  workflow_dispatch:      # elle çalıştırmaya da izin verir
+    - cron: "0 0 * * *"  # Her gün gece çalışır (UTC 00:00)
+  workflow_dispatch:      # Elle tetiklemeye izin verir
 
 jobs:
   build:
@@ -21,10 +21,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-          color_snake: "#00ff00"  # yeşil yılan
-          color_dots: "#444444,#555555,#666666,#777777,#888888"
-          color_bg: "#000000"    # siyah arka plan
-          pixel_size: 12         # kutular arası mesafeyi optimize eder
+          color_snake: "#39ff14"   # Neon yeşil yılan
+          color_dots: "#111111,#222222,#333333,#444444,#555555"  # Daha açık kutular
+          color_bg: "#000000"     # Tam siyah arka plan
+          pixel_size: 12          # Göz yormayan yoğunluk
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
