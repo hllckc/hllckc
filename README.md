@@ -52,7 +52,7 @@
 
 ---
 
-## 🐍 Snake Commit Animasyonu
+
 <p align="center">
   <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
